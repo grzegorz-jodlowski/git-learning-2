@@ -21,7 +21,7 @@
 
 ## <a name="about"></a>What's this project about?
 
- This
+ This is simple old-fashioned page created only for learning GIT. It contains the text of the iconic song Hey Jude.
 
 </br>
 
@@ -33,19 +33,33 @@
 </br>
 
 ## <a name="what"></a>What I learned?
-- c
-
+- benefits of using version control system,
+- what are the principles of GIT,
+- use GIT in the terminal and in the VC code editor,
+- adjust GIT to my own preferences,
+- initialize repositories in various ways (from local level and from a remote repository),
+- use a .gitignore file,
+- name commits correctly,
+- properly interact with the remote repository,
+- set up GitHub repositories and authenticate with the SSH key,
+- resolve conflicts between versions in the remote and local repository,
+- work with branches and merge them together,
 
 </br>
 
 ## <a name="interesting"></a>Interesting code snippet (for me of course 😉)
-- c
+- delete a file only from a Git repository (not remove it from the local filesystem)
 
-```css
-
-}
+```git
+git rm --cached example.txt
+git commit -m "Remove example.txt"
+git push origin branch_name
 ```
+- last commite modification (for example, to add or change a comment)
 
+```git
+git commit --amend -m "..."
+```
 
 </br>
 
