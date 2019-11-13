@@ -28,6 +28,7 @@
 ## <a name="technologies"></a>Technologies used
 - HTML
 - CSS
+- npm
 - GIT
 
 </br>
