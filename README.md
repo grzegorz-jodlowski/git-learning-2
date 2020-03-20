@@ -5,7 +5,7 @@
 
 
 # <p align="center">🎵 GIT learning</p>
-<p align="center">Simple project for learning GIT (version control system)</p>
+<p align="center">Simple project for learning GIT</p>
 
 </br>
 
@@ -22,6 +22,7 @@
 ## <a name="about"></a>What's this project about?
 
  This is simple old-fashioned page created only for learning GIT. It contains the text of the iconic song Hey Jude.
+
 
 </br>
 
@@ -67,4 +68,7 @@ git commit --amend -m "..."
 ## <a name="gitHub"></a>GitHub Pages
 <a href="https://grzegorz-jodlowski.github.io/git-learning-2/">GIT learning</a>
 
+</br>
+</br>
 
+  *project implemented as part of the 9-month [Web Developer Plus](https://kodilla.com/pl/bootcamp/webdeveloper/?type=wdp&editionId=309) course organized by [Kodilla](https://drive.google.com/file/d/1AZGDMtjhsHbrtXhRSIlRKKc3RCxQk6YY/view?usp=sharing)
