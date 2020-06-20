@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://grzegorz-jodlowski.github.io/git-learning-2/"><img src="logo4.jpg" title="logo" alt="Song title Hey Jude and the autor The Beatles"></a>
+<a href="https://grzegorz-jodlowski.github.io/git-learning-2/"><img src="img/logo4.jpg" title="logo" alt="Song title Hey Jude and the autor The Beatles"></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [What's this project about?](#about)
-- [Technologies used](#technologies)
+- [Technologies used](#tech)
 - [What I learned?](#what)
 - [Interesting code snippet](#interesting)
 - [Website (on GitHub Pages)](#site)
@@ -26,7 +26,7 @@
 
 </br>
 
-## <a name="technologies"></a>Technologies used
+## <a name="tech"></a>Technologies used
 - HTML
 - CSS
 - npm
